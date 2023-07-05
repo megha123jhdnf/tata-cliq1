@@ -10,29 +10,29 @@ const Navbar = () => {
     </div>
     <div id='divsecond'>
         <div id='text'>
-        <span>Tata CLIQ Luxury</span>
+        <span>Tata CLiQ Luxury</span>
           
-                <p>CLIQ Cash</p>
+                <p>CLiQ Cash</p>
                 <p>Gift Card</p>
-                <p>CLIQ Care </p>
+                <p>CLiQ Care </p>
                 <p>Track Orders</p>
-               <p>Sign in/Sigh Up</p>               
+                <p>Sign in / Sign Up</p>               
 
           </div>
         <div id='icon'>
-            <div id='child1'>
+            <div class='option'>
             <p>Categories</p>
             <i class="fa-solid fa-chevron-down"></i>
            
             </div>
-            <div id='brand'>
+            <div class='option'>
                 <p>Brands</p>
                 <i class="fa-solid fa-chevron-down"></i>
             </div>
-            <div id='search'>
+            <div id='search-btn'>
                 <div id='search1'>
-            <i class="fa-solid fa-magnifying-glass"></i>
-                <input type='search' placeholder='Search for Brands'/>
+               <i class="fa-solid fa-magnifying-glass"></i>
+                <input type='search' placeholder='Search for Products'/>
                 </div>
             </div>
             <div id='bag'>
