@@ -5,8 +5,8 @@ const Home = () => {
 
     <>
       <div className='maincontainer'>
-        <img src='https://assets.tatacliq.com/medias/sys_master/images/47596855656478.jpg' alt=''/>
-      </div>
+<img src="https://assets.tatacliq.com/medias/sys_master/images/47667010437150.jpg" alt="" />     
+ </div>
 
       <div id='quick-procducts'>
         <div className='quick-procducts-align'>
