@@ -9,7 +9,7 @@ const MenMultiple = () => {
             <p>Men's clothing</p>
             <p>164811 Products</p>
 
-            <div>
+            <div id='sort'>
                 <p>Sort by : <span>Popularity</span></p>
             </div>
             <div id='leftRight'>
@@ -185,12 +185,64 @@ const MenMultiple = () => {
             
                 </div>
                 <div id='rightDiv'>
-                    <div>
-                      <img src="https://www.tatacliq.com/u-s-polo-assn-dark-green-regular-fit-shirt/p-mp000000015191655" alt="" />
+                    <div class='imgDetails'>
+                        <div>
+                        <img src="https://img.tatacliq.com/images/i8/437Wx649H/MP000000014021276_437Wx649H_202208031007061.jpeg" alt="" />
+                         <p>Puma</p>
+                         <p>Puma Performance Running</p>
+                         <p>Black Round Neck T-shirt</p>
+                         <p>Rs.<span>949</span><del>Rs.2499</del></p>
+                         <div class='starWithNo'>
+                            <p>3</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
                     </div>
-                    
+                        
+                        <div>
+                            
+                        <img src="https://img.tatacliq.com/images/i9/437Wx649H/MP000000016373929_437Wx649H_202302042021191.jpeg" alt="" />
+                        <p>U.S.Polo Assn.</p>
+                         <p>U.S.Polo Assn.Ivory Cotton</p>
+                         <p>Regular Fit Polo T-shirt</p>
+                         <p>Rs.<span>1899</span></p>
+                         
+                       </div>
+
+                       <div>
+                       <img src="https://img.tatacliq.com/images/i8/437Wx649H/MP000000015298354_437Wx649H_202211152202081.jpeg" alt="" />
+                       <p>Levi's</p>
+                         <p>Levi's 512 mid Indigo Slim Fit</p>
+                         <p>Jeans</p>
+                         <p>Rs.<span>1855 </span> <del> Rs.3199</del></p>
+                         <div class='starWithNo'>
+                            <p>4.3</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
+                         <p id='limit'>Limited stock!</p>
+                      </div>
+
+                      <div>
+                      <img src="https://img.tatacliq.com/images/i8/437Wx649H/MP000000015191655_437Wx649H_202211060047171.jpeg" alt="" />
+                      <p>U.S.Polo Assn.</p>
+                         <p>U.S.Polo Dark Green</p>
+                         <p>Regular Fit Cotton shirt</p>
+                         <p>Rs.<span>2299</span></p>
+                         <div class='starWithNo'>
+                            <p>2.8</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
+                      </div>
+                      <div>
+                        <img src="https://img.tatacliq.com/images/i9/437Wx649H/MP000000015741046_437Wx649H_202212171725101.jpeg" alt="" />
+                      </div>
+
+                    </div>
 
                 </div>
+
             </div>
         </div>
    
