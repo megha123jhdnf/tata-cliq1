@@ -10,6 +10,7 @@ const Menwear = () => {
 <div id='divfirstimage'>
     <div id='divchild'>
         <div>
+            
             <img src='https://assets.tatacliq.com/medias/sys_master/images/47396042702878.jpg' alt=''/>
         </div>
         <div>

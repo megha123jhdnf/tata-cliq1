@@ -184,8 +184,7 @@ const MenMultiple = () => {
                        </div>
             
                 </div>
-                <div id='rightDiv'>
-                    <div class='imgDetails'>
+                <div class='right'>
                         <div>
                         <img src="https://img.tatacliq.com/images/i8/437Wx649H/MP000000014021276_437Wx649H_202208031007061.jpeg" alt="" />
                          <p>Puma</p>
@@ -237,15 +236,214 @@ const MenMultiple = () => {
                       </div>
                       <div>
                         <img src="https://img.tatacliq.com/images/i9/437Wx649H/MP000000015741046_437Wx649H_202212171725101.jpeg" alt="" />
+                        <p>Puma</p>
+                         <p>Puma White Cotton Regular</p>
+                         <p>Fit Printed Cotton T-shirt</p>
+                         <p>Rs.<span>799</span> <del>2499</del></p>
+                         <div class='starWithNo'>
+                            <p>4.4</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
+                                   
+           </div>
+
+           <div>       <img src="https://img.tatacliq.com/images/i10/437Wx649H/MP000000016966892_437Wx649H_202303231659211.jpeg" alt="" />
+                        <p>Puma</p>
+                         <p>Puma White Cotton Regular</p>
+                         <p>Fit Printed Cotton T-shirt</p>
+                         <p>Rs.<span>799</span> <del>2499</del></p>
+                         <div class='starWithNo'>
+                            <p>4.4</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
+           
+                         </div>
+
+                          
+                        <div>
+                            
+                            <img src="https://img.tatacliq.com/images/i9/437Wx649H/MP000000016373929_437Wx649H_202302042021191.jpeg" alt="" />
+                            <p>U.S.Polo Assn.</p>
+                             <p>U.S.Polo Assn.Ivory Cotton</p>
+                             <p>Regular Fit Polo T-shirt</p>
+                             <p>Rs.<span>1899</span></p>
+                             
+                           </div>
+                           
+
+                           <div>
+                            <img src="https://img.tatacliq.com/images/i11/437Wx649H/MP000000017677243_437Wx649H_202305250351271.jpeg" alt="" />
+                       <p>Levi's</p>
+                         <p>Levi's 512 mid Indigo Slim Fit</p>
+                         <p>Jeans</p>
+                         <p>Rs.<span>1855 </span> <del> Rs.3199</del></p>
+                         <div class='starWithNo'>
+                            <p>4.3</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
+                         <p id='limit'>Limited stock!</p>
                       </div>
 
-                    </div>
+                      <div>
+                        <img src="https://img.tatacliq.com/images/i11/437Wx649H/MP000000017907017_437Wx649H_202306111944481.jpeg" alt="" />
+                       <p>Levi's</p>
+                         <p>Levi's 512 mid Indigo Slim Fit</p>
+                         <p>Jeans</p>
+                         <p>Rs.<span>1855 </span> <del> Rs.3199</del></p>
+                         <div class='starWithNo'>
+                            <p>4.3</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
 
+                         </div>
+                         <p id='limit'>Limited stock!</p>
+                      </div>
+
+
+                      <div>
+                       <img src="https://img.tatacliq.com/images/i8/437Wx649H/MP000000015298354_437Wx649H_202211152202081.jpeg" alt="" />
+                       <p>Levi's</p>
+                         <p>Levi's 512 mid Indigo Slim Fit</p>
+                         <p>Jeans</p>
+                         <p>Rs.<span>1855 </span> <del> Rs.3199</del></p>
+                         <div class='starWithNo'>
+                            <p>4.3</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+                         </div>
+                         </div>
+
+
+                         <div>
+                            <img src="https://img.tatacliq.com/images/i10/437Wx649H/MP000000017311697_437Wx649H_202304210611091.jpeg" alt="" />
+                       <p>Levi's</p>
+                         <p>Levi's 512 mid Indigo Slim Fit</p>
+                         <p>Jeans</p>
+                         <p>Rs.<span>1855 </span> <del> Rs.3199</del></p>
+                         <div class='starWithNo'>
+                            <p>4.3</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
+                         <p id='limit'>Limited stock!</p>
+                      </div>
+
+                      <div>
+                        <img src="https://img.tatacliq.com/images/i11/437Wx649H/MP000000017416130_437Wx649H_202305011819051.jpeg" alt="" />
+                      <p>U.S.Polo Assn.</p>
+                         <p>U.S.Polo Dark Green</p>
+                         <p>Regular Fit Cotton shirt</p>
+                         <p>Rs.<span>2299</span></p>
+                         <div class='starWithNo'>
+                            <p>2.8</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
+                      </div>
+                      <div>
+                        <img src="https://img.tatacliq.com/images/i11/437Wx649H/MP000000017883440_437Wx649H_202306092110591.jpeg" alt="" />
+                        <p>Puma</p>
+                         <p>Puma White Cotton Regular</p>
+                         <p>Fit Printed Cotton T-shirt</p>
+                         <p>Rs.<span>799</span> <del>2499</del></p>
+                         <div class='starWithNo'>
+                            <p>4.4</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
+                                   
+           </div>
+
+           <div>            
+            <img src="https://img.tatacliq.com/images/i11/437Wx649H/MP000000017906443_437Wx649H_202306111918521.jpeg" alt="" />
+                             <p>Puma</p>
+                         <p>Puma White Cotton Regular</p>
+                         <p>Fit Printed Cotton T-shirt</p>
+                         <p>Rs.<span>799</span> <del>2499</del></p>
+                         <div class='starWithNo'>
+                            <p>4.4</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
+           
+                         </div>
+
+                          
+                        <div>
+                            
+                            <img src="https://img.tatacliq.com/images/i9/437Wx649H/MP000000016373929_437Wx649H_202302042021191.jpeg" alt="" />
+                            <p>U.S.Polo Assn.</p>
+                             <p>U.S.Polo Assn.Ivory Cotton</p>
+                             <p>Regular Fit Polo T-shirt</p>
+                             <p>Rs.<span>1899</span></p>
+                             
+                           </div>
+
+                           <div>
+                       <img src="https://img.tatacliq.com/images/i8/437Wx649H/MP000000015298354_437Wx649H_202211152202081.jpeg" alt="" />
+                       <p>Levi's</p>
+                         <p>Levi's 512 mid Indigo Slim Fit</p>
+                         <p>Jeans</p>
+                         <p>Rs.<span>1855 </span> <del> Rs.3199</del></p>
+                         <div class='starWithNo'>
+                            <p>4.3</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
+                         <p id='limit'>Limited stock!</p>
+                      </div>
+
+                      <div>
+                      <img src="https://img.tatacliq.com/images/i8/437Wx649H/MP000000014021276_437Wx649H_202208031007061.jpeg" alt="" />
+
+                       <p>Levi's</p>
+                         <p>Levi's 512 mid Indigo Slim Fit</p>
+                         <p>Jeans</p>
+                         <p>Rs.<span>1855 </span> <del> Rs.3199</del></p>
+                         <div class='starWithNo'>
+                            <p>4.3</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
+                         <p id='limit'>Limited stock!</p>
+                      </div>
+
+
+                      <div>
+                      <img src="https://img.tatacliq.com/images/i11/437Wx649H/MP000000017677243_437Wx649H_202305250351271.jpeg" alt="" />
+
+                       <p>Levi's</p>
+                         <p>Levi's 512 mid Indigo Slim Fit</p>
+                         <p>Jeans</p>
+                         <p>Rs.<span>1855 </span> <del> Rs.3199</del></p>
+                         <div class='starWithNo'>
+                            <p>4.3</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+                         </div>
+                         </div>
+
+
+                         <div>
+                            <img src="https://img.tatacliq.com/images/i11/437Wx649H/MP000000017906443_437Wx649H_202306111918521.jpeg" alt="" />
+                       <p>Levi's</p>
+                         <p>Levi's 512 mid Indigo Slim Fit</p>
+                         <p>Jeans</p>
+                         <p>Rs.<span>1855 </span> <del> Rs.3199</del></p>
+                         <div class='starWithNo'>
+                            <p>4.3</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+
+                         </div>
+                         <p id='limit'>Limited stock!</p>
+                      </div>
+
+                           
+
+                       
+                        </div>
                 </div>
-
-            </div>
-        </div>
-   
+                </div>
         </>
          )
 }
