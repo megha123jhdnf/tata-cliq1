@@ -28,9 +28,9 @@
 #footer1txt>div{
     /* border: 1px solid black; */
     width: 25%;
-    /* height: 300px; */
     text-align: center;
 }
 #footer1txt>div>p{
     margin-top: 10px;
+    font-size: 12px;
 }
