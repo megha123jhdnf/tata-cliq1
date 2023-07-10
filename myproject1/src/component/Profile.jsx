@@ -65,15 +65,53 @@ const Profile = () => {
 </div>
        <div id='generalInfo'>
         <p>General Information</p>
-        <div>
+        <div class='details'>
             <p>Basic Details</p>
             <p>Add</p>
-        </div>
-       </div>
+            </div>
+
+            <div id='BdetailsInfo'>
+                <label>First Name </label>
+                <input class='SameStyle1' type="text"  placeholder='First Name'/><br />
+                <label>Last Name </label>
+                <input class='SameStyle1' type="text"  placeholder='Last Name'/><br />
+                <label>Date of Birth </label>
+                <input id='date' type="date"  placeholder='dd-mm-yyyy'/>
+
+            </div>
+
+            <div class='details'>
+            <p>Contact Details</p>
+            <p>Edit</p>
+            </div>
+
+            <div id='CdetailsInfo'>
+                <label>Mobile Number </label>
+                <input id='Monumber' type="number"  placeholder='+91-972456856'/><br />
+                <label>Last Name </label>
+                <input class='SameStyle1' type="email"  placeholder='m.megha12@gmail.com'/><br />
+                
+
+            </div>
+
+            <div class='details'>
+            <p>Personal Details</p>
+            <p>Add</p>
+            </div>
+
+            <div id='PdetailsInfo'>
+                <label>Gender </label>
+                <input class='SameStyle1' type="text"  /><br />
+                
+
+            </div>
        
-       <div id='leftSection'>3</div>
-    </div>
-  )
+       </div>
+       <div id='leftSection'>
+       <i class="fa-sharp fa-regular fa-user"></i>
+       <p>meghali kamble</p>
+       </div>
+</div>  )
 }
 
 export default Profile

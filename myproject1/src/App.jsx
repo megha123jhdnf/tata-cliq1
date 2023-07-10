@@ -8,6 +8,7 @@ import Menwear from './component/Menwear';
 import MenMultiple from './component/MenMultiple';
 import MenSingle from './component/MenSingle';
 import Profile from './component/Profile';
+import Cart from './component/Cart';
 
 function App() {
   console.log("Inside app")
@@ -15,6 +16,7 @@ function App() {
     <div>
     <Navbar/>
     <Routes>
+      <Route exact path='cart' element={<Cart/>} />
       <Route exact path='profile' element={<Profile/>} />
       <Route exact path='men-single' element={<MenSingle />} />
       <Route exact path='/home' element={<Home/>}/>
