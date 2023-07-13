@@ -9,6 +9,13 @@ import MenMultiple from './component/MenMultiple';
 import MenSingle from './component/MenSingle';
 import Profile from './component/Profile';
 import Cart from './component/Cart';
+import WomenMultiple from './component/WomenMultiple';
+import KidMultiple from './component/KidMultiple';
+import HomeKitchenMultiple from './component/HomeKitchenMultiple';
+import Beauty from './component/Beauty';
+import Gadget from './component/Gadget';
+import Jwellery from './component/Jwellery';
+import Accessories from './component/Accessories';
 
 function App() {
   console.log("Inside app")
@@ -16,6 +23,13 @@ function App() {
     <div>
     <Navbar/>
     <Routes>
+      <Route exact path='accessories-multiple-product' element={<Accessories/>}   />
+      <Route exact path='jwellery-multiple-product' element={<Jwellery/>}  />
+      <Route exact path='Gadget-multiple-product' element={<Gadget/>} />
+      <Route exact path='beauty-multiple-product'  element={<Beauty/>} />
+      <Route exact path='Home-kitchen-mutiple-product' element={<HomeKitchenMultiple/>} />
+      <Route exact path='kid-multiple-product' element={<KidMultiple/>} />
+      <Route exact path='women-multiple-product' element={<WomenMultiple/>} />
       <Route exact path='cart' element={<Cart/>} />
       <Route exact path='profile' element={<Profile/>} />
       <Route exact path='men-single' element={<MenSingle />} />

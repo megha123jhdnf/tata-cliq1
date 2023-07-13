@@ -1,6 +1,13 @@
 import React from 'react'
 import './MenMultiple.css'
-const MenMultiple = () => {
+import { useNavigate } from 'react-router-dom'
+
+
+function MenMultiple() {
+  const router = useNavigate()
+  function togo() {
+    router('/MenSingle')
+  }
   
 
     return(
@@ -25,7 +32,7 @@ const MenMultiple = () => {
 
                     <div>
                         <p class='leftHeader' >Category</p>
-                        <span class='menWearType'>Casual Wear</span>
+                        <span class='womenmenWearType'>Casual Wear</span>
                     </div>
    
                     <div>
@@ -185,7 +192,7 @@ const MenMultiple = () => {
             
                 </div>
                 <div class='right'>
-                        <div>
+                <div onClick={togo}>
                         <img src="https://img.tatacliq.com/images/i8/437Wx649H/MP000000014021276_437Wx649H_202208031007061.jpeg" alt="" />
                          <p>Puma</p>
                          <p>Puma Performance Running</p>
@@ -368,6 +375,20 @@ const MenMultiple = () => {
                          </div>
            
                          </div>
+                         <div>
+                       <img src="https://img.tatacliq.com/images/i8/437Wx649H/MP000000015298354_437Wx649H_202211152202081.jpeg" alt="" />
+                       <p>Levi's</p>
+                         <p>Levi's 512 mid Indigo Slim Fit</p>
+                         <p>Jeans</p>
+                         <p>Rs.<span>1855 </span> <del> Rs.3199</del></p>
+                         <div class='starWithNo'>
+                            <p>4.3</p>
+                            <img src="https://www.tatacliq.com/src/general/components/img/green-filled-star.svg" alt="" />
+                               
+                         </div>
+                         <p id='limit'>Limited stock!</p>
+                      </div>
+
 
                           
                         <div>
