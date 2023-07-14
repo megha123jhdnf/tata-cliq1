@@ -1,7 +1,6 @@
 import React from 'react'
 import './Home.css'
 import { useNavigate } from 'react-router-dom'
-import MenMultiple from './MenMultiple'
 function Home  ()  {
   const router = useNavigate()
   function  MensMultiple(){
@@ -19,11 +18,9 @@ function Home  ()  {
 
       <div id='quick-procducts'>
         <div className='quick-procducts-align'>
-        <div  onClick={MenMultiple}  className='quick-procducts-card'>
-        <img src="https://img.tatacliq.com/images/i8/437Wx649H/MP000000014021276_437Wx649H_202208031007061.jpeg" alt="" />
+        <div  className='quick-procducts-card'>
 
-
-
+            <img src='https://assets.tatacliq.com/medias/sys_master/images/47596848218142.jpg'alt='' />
           </div>
           <div className='quick-procducts-card'>
             <img src='https://assets.tatacliq.com/medias/sys_master/images/47575793303582.jpg'alt='' />

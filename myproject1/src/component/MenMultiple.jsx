@@ -32,7 +32,7 @@ function MenMultiple() {
 
                     <div>
                         <p class='leftHeader' >Category</p>
-                        <span class='womenmenWearType'>Casual Wear</span>
+                        <span class='menWearType'>Casual Wear</span>
                     </div>
    
                     <div>
