@@ -16,6 +16,8 @@ import Beauty from './component/Beauty';
 import Gadget from './component/Gadget';
 import Jwellery from './component/Jwellery';
 import Accessories from './component/Accessories';
+import Wishlist1 from './component/Wishlist1';
+import Checkout from './component/Checkout';
 
 function App() {
   console.log("Inside app")
@@ -23,6 +25,8 @@ function App() {
     <div>
     <Navbar/>
     <Routes>
+      <Route exact path='checkout' element={<Checkout/>} />
+      <Route exact path='wishlist' element={<Wishlist1/>} />
       <Route exact path='accessories-multiple-product' element={<Accessories/>}   />
       <Route exact path='jwellery-multiple-product' element={<Jwellery/>}  />
       <Route exact path='Gadget-multiple-product' element={<Gadget/>} />
