@@ -6,9 +6,11 @@ const Checkout = () => {
     <>
     <div id='checkout'>
         <p>Checkout</p>
-        <div>1
-            <div>11</div>
-            <div>22</div>
+        <div id='firstDiv'>
+            <div>
+              <div></div>
+            </div>
+            <div id='secondDiv'>22</div>
         </div>
         <div>2</div>
 
